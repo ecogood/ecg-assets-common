@@ -1,0 +1,21 @@
+{
+  "name": "ecg-assets-common",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ecogood/ecg-assets-common",
+  "description": "assets for ECG applications",
+  "keywords": [
+    "ecg",
+    "common",
+    "good",
+    "assets",
+    "common"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "ecg-assets-common",
+  "version": "0.0.1",
+  "private": true,
+  "description": "common assets for ECG projects",
+  "homepage": "https://github.com/ecogood/ecg-assets-common",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecogood/ecg-assets-common.git"
+  },
+  "keywords": [
+    "ecg",
+    "common",
+    "good",
+    "assets",
+    "common"
+  ],
+  "author": "Nikolay Georgiev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecogood/ecg-assets-common/issues"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.1",
+    "grunt-bump": "0.0.16"
+  }
+}

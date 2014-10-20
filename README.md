@@ -1,4 +1,6 @@
-ecg-sass
+ECG Assets Common
 ========
 
-Sass files for the ECG
+Common assets for ECG projects.
+* sass files
+* images
