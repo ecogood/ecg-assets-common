@@ -1,6 +1,6 @@
 {
   "name": "ecg-assets-common",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "homepage": "https://github.com/ecogood/ecg-assets-common",
   "description": "assets for ECG applications",
   "keywords": [
@@ -12,10 +12,16 @@
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "Gruntfile.js",
+    "package.json",
+    "README.md"
   ]
 }

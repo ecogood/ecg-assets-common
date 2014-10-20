@@ -7,7 +7,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     bump: {
       options: {
-        files: ['package.json'],
+        files: ['package.json', 'bower.json'],
         updateConfigs: [],
         commit: true,
         commitMessage: 'Release v%VERSION%',
@@ -16,7 +16,7 @@ module.exports = function(grunt) {
         tagName: 'v%VERSION%',
         tagMessage: 'Version %VERSION%',
         push: true,
-        pushTo: 'upstream',
+        pushTo: 'https://github.com/ecogood/ecg-assets-common.git',
         gitDescribeOptions: '--tags --always --abbrev=1 --dirty=-d',
         globalReplace: false
       }
