@@ -1,6 +1,6 @@
 {
   "name": "ecg-assets-common",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "private": true,
   "description": "common assets for ECG projects",
   "homepage": "https://github.com/ecogood/ecg-assets-common",
