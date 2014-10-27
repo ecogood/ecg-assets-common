@@ -1,0 +1,115 @@
+.btn-ecg {
+  background-color: #CCCB98;
+  border-color: #CCCB98;
+  color: #FFFFFF; }
+
+.btn-ecg:hover, .btn-ecg.active {
+  background-color: #c4c287;
+  border-color: #c4c287; }
+
+.btn-ecg-turquoise {
+  background-color: #009999;
+  border-color: #009999;
+  color: #FFFFFF; }
+
+.btn-ecg-turquoise:hover, .btn-ecg-turquoise.active {
+  background-color: #007f80;
+  border-color: #007f80;
+  color: #FFFFFF; }
+
+.btn-ecg-level-white-color-hover, .btn-ecg-level-0:hover, .btn-ecg-level-0.active, .btn-ecg-level-1:hover, .btn-ecg-level-1.active {
+  border-color: #d8d8d8;
+  color: #FFFFFF; }
+
+.btn-ecg-level-dark-color, .btn-ecg-level-0, .btn-ecg-level-1, .btn-ecg-level-2, .btn-ecg-level-3, .btn-ecg-level-4 {
+  border-color: #E5E5E5;
+  color: #5C5C5C; }
+
+.btn-ecg-level-dark-color-hover, .btn-ecg-level-2:hover, .btn-ecg-level-2.active, .btn-ecg-level-3:hover, .btn-ecg-level-3.active, .btn-ecg-level-4:hover, .btn-ecg-level-4.active {
+  border-color: #d8d8d8;
+  color: #5C5C5C; }
+
+.btn-ecg-level-0 {
+  background-color: rgba(222, 107, 60, 0.1); }
+
+.btn-ecg-level-0:hover, .btn-ecg-level-0.active {
+  background-color: #DE6B3C; }
+
+.btn-ecg-level-1 {
+  background-color: rgba(232, 184, 9, 0.1); }
+
+.btn-ecg-level-1:hover, .btn-ecg-level-1.active {
+  background-color: #E8B809; }
+
+.btn-ecg-level-2 {
+  background-color: rgba(255, 241, 1, 0.1); }
+
+.btn-ecg-level-2:hover, .btn-ecg-level-2.active {
+  background-color: #FFF101; }
+
+.btn-ecg-level-3 {
+  background-color: rgba(163, 207, 154, 0.1); }
+
+.btn-ecg-level-3:hover, .btn-ecg-level-3.active {
+  background-color: #A3CF9A; }
+
+.btn-ecg-level-4 {
+  background-color: rgba(64, 174, 73, 0.1); }
+
+.btn-ecg-level-4:hover, .btn-ecg-level-4.active {
+  background-color: #40AE49; }
+
+.ecg-level-0-bg {
+  background-color: #E8B809; }
+
+.ecg-level-0-bg-text {
+  background-color: #E8B809 !important;
+  color: #5C5C5C !important; }
+
+.ecg-level-1-bg {
+  background-color: #FFF101; }
+
+.ecg-level-1-bg-text {
+  background-color: #FFF101 !important;
+  color: #5C5C5C !important; }
+
+.ecg-level-2-bg {
+  background-color: #A3CF9A; }
+
+.ecg-level-2-bg-text {
+  background-color: #A3CF9A !important;
+  color: #FFFFFF !important; }
+
+.ecg-level-3-bg {
+  background-color: #40AE49; }
+
+.ecg-level-3-bg-text {
+  background-color: #40AE49 !important;
+  color: #FFFFFF !important; }
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+.svg-icon {
+  width: 3em;
+  height: 2em;
+  vertical-align: middle; }
+
+.svg-icon20 {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle; }
+
+svg path, svg polygon, svg rect {
+  fill: #99CCCC; }
+
+.svg-hover:hover svg path, .svg-hover:hover svg polygon, .svg-hover:hover svg rect {
+  fill: #009999; }
+
+svg circle {
+  stroke: #99CCCC;
+  stroke-width: 1; }
+
+.svg-hover:hover svg circle {
+  stroke: #009999;
+  stroke-width: 1; }
