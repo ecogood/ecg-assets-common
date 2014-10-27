@@ -1,7 +1,7 @@
 /* -----
 SVG Icons - svgicons.sparkk.fr
 ----- */
-@import "ecg_variables.scss";
+@import "ecg-variables";
 
 .svg-icon {
   width: 3em;
@@ -18,21 +18,21 @@ SVG Icons - svgicons.sparkk.fr
 svg path,
 svg polygon,
 svg rect {
-  fill: $ecg-turquoise-color;
+  fill: $color-ecg-turquoise;
 }
 
 .svg-hover:hover svg path,
 .svg-hover:hover svg polygon,
 .svg-hover:hover svg rect {
-  fill: $ecg-turquoise-color-dark;
+  fill: $color-ecg-turquoise-dark;
 }
 
 svg circle {
-  stroke: $ecg-turquoise-color;
+  stroke: $color-ecg-turquoise;
   stroke-width: 1;
 }
 
 .svg-hover:hover svg circle {
-  stroke: $ecg-turquoise-color-dark;
+  stroke: $color-ecg-turquoise-dark;
   stroke-width: 1;
 }
